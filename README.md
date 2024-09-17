@@ -1,5 +1,3 @@
-<br>
-
 <h1 align="left">Observatório de Saúde Urbana de Belo Horizonte</h1>
 
 <h3 align="left">Pesquisa científica, capacitação e produção de conhecimento sobre saúde urbana.</h3>
