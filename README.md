@@ -24,7 +24,9 @@
 <h2 align="left">Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osubh-ufmg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Estatisticas" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osubh-ufmg&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osubh-ufmg&radius=16&theme=github-dark&area=true&custom_title=Contribuições" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osubh-ufmg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Estatisticas&cache_seconds=86400" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osubh-ufmg&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osubh-ufmg&radius=16&theme=github-dark&area=true&custom_title=Contribuições&cache_seconds=86400" height="300" alt="activity-graph graph" />
 </div>
