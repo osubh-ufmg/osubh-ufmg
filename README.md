@@ -2,7 +2,7 @@
 
 <h3 align="left">Pesquisa científica, capacitação e produção de conhecimento sobre saúde urbana.</h3>
 
-<p align="left">O Observatório de Saúde Urbana de Belo Horizonte (OSUBH), fundado em 2002, busca ampliar e avançar no conhecimento sobre saúde urbana por meio de pesquisa científica.<br><br>Para maiores informações acesse nosso site: https://osubh.medicina.ufmg.br/</p>
+<p align="left">O Observatório de Saúde Urbana de Belo Horizonte (OSUBH), fundado em 2002, busca ampliar e avançar no conhecimento sobre saúde urbana por meio de pesquisa científica.<br>Para maiores informações acesse nosso site: https://osubh.medicina.ufmg.br/</p>
 
 
 <br>
